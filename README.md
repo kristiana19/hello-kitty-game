@@ -1,6 +1,6 @@
 # 🎀 Hello Kitty Game 
 
-## 🎉 Igra je sada dostupna i online — bez lokalnog pokretanja!
+## 🎉 Igra je dostupna online
 
 ▶️ Play here:
 https://super-kitty-game.onrender.com/
