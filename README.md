@@ -1,4 +1,15 @@
-# 🎀 Hello Kitty Game — Lokalno pokretanje
+# 🎀 Hello Kitty Game 
+
+## 🎉 Igra je sada dostupna i online — bez lokalnog pokretanja!
+
+▶️ Play here:
+https://super-kitty-game.onrender.com/
+
+
+----------------------------------------------------------------------------------
+
+
+## Lokalno pokretanje
 
 ![alt text](image.png)
 
